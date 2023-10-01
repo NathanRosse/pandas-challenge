@@ -1,0 +1,24 @@
+# pandas-challenge
+
+
+
+Thanks you Jesse Wright for your help on tutoring. I still have plently of questions but you gave the help you could.
+I managed the rest of the code by 10:30 but now I have to draft up the conclusions and figure that shite out
+I have a decent grasp on the concepts but at the current time I was just moving and shifting coding around till something worked. Thanks for providing a format for us to follow.
+God this conlusion got my head hurting
+
+                                                                            CONCLUSION ON OBSERVABLE TRENDS
+
+The data files consists of a total of 15 schools and 39170 students. There is the total student's average math score at 78.98% which is 2.89% less than the total student's average reading score at 81.87% Afterwards we see that passing rate for math is at 74.98% while the passing rate for reading is resting at 85.8% which is a comfy 10.82% above the math passing rate. Although, the overall passing rate for math and reading is 65.17& which indicates to us that students tend to score better in reading than they would in math.
+
+The school summary showed that of the 15 schools, 7 of them are of the district level while the remaining 8 are at a charter level. The quantity of students in the schools ranged from 427 in Holden High School to as much as 4976 students in Bailey High School. Based on the previous summary lines we can conclude that the district schools have more students on average than the charter schools.
+
+The overall budgets for each school was calculated as well as the price spent per student through each school. At the highest total budget, we have Bailey High school at $3,124,928 while the per student budget is $628. Bailey shows itself to be above the rest by having the highest total budget and the price spent on students is in the upper percentile of quality. On the opposite side we have Holden High School at the lowest total budget at $248,087 total budget and also the lowest per student spending at $581 putting them on the lower percentile of the academic institutes. Between the charter and district schools, it shows that the district schools are lagging behind the charter schools in the % of success found both in Math and Reading subjects, but this could be a factor that charter schools have less students than district on average which allows them to focus more resources into these students succeeding. District schools together had a total budget of $17,347,923 and a total student budget of $4505. For charter schools however, they had a total budget of $7,301,505 and a total student spending of $4796. The differences in spending appear to be based on the population of students for district and charter schools.
+
+From our findings of the data, we have seen a variety of metrics such as averages, percentages, and overall rates or reading and math scores over both district and charter schools, and the resulting information has shown that on average, charter schools score better than district schools. At the highest average math score of 83.839917% and highest average reading score of 84.044699% from Pena High school, this shows a trend of the charter schools once again outpreforming the district schools in academics. On the other spectrum, Huang High school has the lowest average math score at 76.629414% followed by a low average reading score at 81.182722% which displays the the district schools seem to fair less than the charter schools. For those that passed both reading and math, the highest score comes from Cabrera at 91.334769% while the lowest score comes from Rodriguez High school at 52.988247%. This correlates with the above findings of the charter schools tending to perform better than the district schools.
+
+Regarding the scores of math and reading per grades, its seen that the highest score achieved was by the 11th grade students of Holden High school scoring an average of 85 over all schools and grades in their area. Similarly, Holden High school also scored the highest average reading score at 84.698795 which confirms that Holden may be doing something right especially as they are a charter school.
+
+There are other irregular findings within this analysis such as when more money is put towards the budget per students, it seems that the average scores and passing percentages decrease unexpectedly. This gives us an insight that maybe monetary funds are not the driving motivators for academic success.
+
+Overall information based on both district and charter schools gives a general indication that a larger population of students causes the overal averages and passing rates to suffer and descrease, potentially due to the lack of resources and care that providers could offer to each individual student. I believe a solution would be to optimize a way to find the appropriate quantity of students that a teacher could confidently and appropriately educate.
